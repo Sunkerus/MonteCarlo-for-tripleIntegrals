@@ -8,4 +8,4 @@ The task is described by mathematical model, using a random variable generator, 
 Probabilistic characteristics of the process under consideration.  
 
 Like this:  
-!(Example)[screenshotOne.png]
+!(Example)[https://github.com/Sunkerus/MonteCarlo-for-tripleIntegrals/blob/main/screenshotOne.png]
